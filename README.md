@@ -12,7 +12,6 @@ Designing, implementing, securing, and automating enterprise IT infrastructure.
 ![Role](https://img.shields.io/badge/Role-Senior%20System%20Administrator-blue?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Infrastructure%20%26%20Cloud-orange?style=flat-square)
 ![Learning](https://img.shields.io/badge/Learning-Always-green?style=flat-square)
-![](https://komarev.com/ghpvc/?username=mahmoudahmeditsys&color=blue)
 
 </div>
 
