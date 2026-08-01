@@ -1,15 +1,24 @@
-<h1 align="center"> Mahmoud Ahmed</h1>
+<div align="center"> 
+  
+# Mahmoud Ahmed
 
-<h3 align="center">
-Senior System Administrator | Infrastructure Engineer | Data Center | Virtualization | Cloud | Security
-</h3>
+### Senior System Administrator | Infrastructure Engineer | Data Center | Cloud | Virtualization
+
+Designing, implementing, securing, and automating enterprise IT infrastructure.
 
 ---
+
+![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-success?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Senior%20System%20Administrator-blue?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Infrastructure%20%26%20Cloud-orange?style=flat-square)
+![Learning](https://img.shields.io/badge/Learning-Always-green?style=flat-square)
+![](https://komarev.com/ghpvc/?username=mahmoudahmeditsys&color=blue)
+
+</div>
 
 ## 👨‍💻 About Me
 
 I'm a Senior System Administrator with 8+ years of experience designing, implementing, and managing enterprise IT infrastructure across on-premises, hybrid, and cloud environments.
-
 My experience spans data center operations, virtualization, enterprise storage, backup and disaster recovery, Microsoft technologies, networking, and IT security. I enjoy building reliable, scalable, and secure infrastructure while continuously learning modern technologies and automation.
 
 ---
@@ -52,7 +61,7 @@ My experience spans data center operations, virtualization, enterprise storage, 
 - Azure Administration
 - Azure Networking
 - Azure Storage
-- Google Cloud Engineer 
+- Google Cloud Platform (GCP)
 
 ### Backup & Disaster Recovery
 - Veeam Backup & Replication
@@ -75,10 +84,14 @@ My experience spans data center operations, virtualization, enterprise storage, 
 - Kaspersky
 - Microsoft Defender
 
-### Automation & DevOps
+### Automation & Scripting
+
 - PowerShell
+- Windows PowerShell
+- Azure PowerShell
 - Git
 - GitHub
+- GitHub Actions (Learning)
 
 ---
 
@@ -104,7 +117,7 @@ My experience spans data center operations, virtualization, enterprise storage, 
 
 ---
 
-## 🎯 Professional Interests
+## 🎯 Professional Services
 
 - Enterprise Infrastructure
 - Data Center Modernization
@@ -117,12 +130,21 @@ My experience spans data center operations, virtualization, enterprise storage, 
 
 ---
 
-## 📫 Connect with Me
+## 🏆 Certifications
 
-💼 LinkedIn: linkedin.com/in/mahmoudahmed-it
-
-📧 Email: mahmoudahmed.itsys@gmail.com
+- Microsoft Azure Administrator Associate (AZ-104)
+- Microsoft Azure Fundamentals (AZ-900)
+- Google Associate Cloud Engineer
+- CCNA
+- CompTIA Network+
+- CompTIA A+
 
 ---
 
-> *"Building reliable infrastructure, embracing automation, and continuously learning new technologies."*
+## 📫 Connect With Me
+
+- 💼 LinkedIn : https://www.linkedin.com/in/mahmoudahmed-it/
+- 🌍 GitHub : https://github.com/mahmoudahmeditsys
+---
+
+*"Technology is constantly evolving. My goal is to keep learning, keep building, and keep sharing knowledge."*
